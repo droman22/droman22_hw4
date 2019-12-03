@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ <title>
+ 	David's Data
+ </title>
+<head>
+	<h1>
+	<center>
+	Visualizing the USA Population and Internet Usage in 5 Countries
+	</center>
+	</h1>
+</head>
+
+<body>
+<h2>
+	USA Population from 1960-2018
+</h2>
+<img src="pop.png" alt="USA Population Over Time">
+<p>
+	This line chart shows the overall increase in the United States' population from 1960-2018. Over this 48 year time span, the population increased by almost 150 million! This data came from the World Bank, which can be found <a href="http://api.worldbank.org/countries/USA/indicators/SP.POP.TOTL?per_page=5000&format=json">here</a>!
+</p>
+
+<h2>
+	Usage of Internet in 5 Different Countries in 2017
+</h2>
+<img src="internet.png" alt="Percent Internet Usage in the Countries of Venezuela, Vietnam, Yemen, Zambia, Zimbabwe">
+<p>
+	This bar graph shows the percent usage of the internet per each displayed country. The countries represented in the graph include: Venezuela, Vietnam, Yemen, Zambia, Zimbabwe. This data captured the internet usage from 2017. The link to the data set can be found 
+	<a href="http://data.un.org/_Docs/SYB/PDFs/SYB62_T29_201904_Internet%20Usage.pdf">here</a>!
+</p>
+</body>
+</html>
